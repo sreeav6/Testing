@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #The below f1,f2 are created in master branch
+
 touch f1
 git add f1
 git commit -m "a"
@@ -10,6 +11,7 @@ git add f2
 git commit -m "b"
 
 #Here we are creating a new branch name called Test and staged t1,t2,t3 file and committed
+
 git checkout -b Test
 touch t1
 git add t1
