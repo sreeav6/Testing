@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #The below f1,f2 are created in master branch
+
 touch f1
 git add f1
 git commit -m "a"
