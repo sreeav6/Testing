@@ -11,6 +11,7 @@ git add f2
 git commit -m "b"
 
 #Here we are creating a new branch name called Test and staged t1,t2,t3 file and committed
+
 git checkout -b Test
 touch t1
 git add t1
