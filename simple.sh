@@ -32,7 +32,7 @@ touch f3
 git add f3
 git commit -m "f"
 
-#Here we are using a concept called Merge<we need to checkout to Master branch and then do merge of the child branch
+#Here we are using a concept called Merge<we need to checkout to Master branch and then do merge of the child branch>
 git merge Test
 git log --oneline
 
